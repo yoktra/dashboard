@@ -1,7 +1,7 @@
 // -------COUNT-------
 
-var countdown = document.getElementById("countdown");
-countdown.innerHTML = 23;
+// var countdown = document.getElementById("countdown");
+// countdown.innerHTML = 23;
 // function
 var countItDown = function() {
   var currentTime = parseFloat(countdown.innerHTML);
@@ -97,6 +97,3 @@ function makeRadial(options) {
     }
   }
 }
-
-
-

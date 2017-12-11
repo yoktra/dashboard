@@ -7,9 +7,7 @@ var path = require('path');
 
 var PORT = 4000;
 
-// var OBDReader = require('bluetooth-obd');
-// var btOBDReader = new OBDReader();
-// var dataReceivedMarker = {};
+
 
 
 app.use(express.static(__dirname + '/node_modules'));
@@ -26,38 +24,41 @@ app.get('/', function(req, res) {
 
 io.on('connection', function(client){
   console.log('Client connected');
+  var OBDReader = require('bluetooth-obd');
+  var btOBDReader = new OBDReader();
+  var dataReceivedMarker = {};
 
-  // btOBDReader.on('connected', function () {
-  //     //this.requestValueByName("vss"); //vss = vehicle speed sensor
-  //
-  //     this.addPoller("vss");
-  //     this.addPoller("rpm");
-  //     this.addPoller("temp");
-  //
-  //     this.startPolling(500); //request second
-  // });
-  //
-  // btOBDReader.on('dataReceived', function (data) {
-  //     console.log(data);
-  client.on('vehicle', function(data){
-    console.log(data);
-    var newData = data
-    //JSON.parse(data);
-    console.log(newData);
-    if (('name' in newData)==true){
-      if (('vss' in newData)==true) {
-        client.emit('speed', newData.value);
-      }
-          // console.log(data);
+  btOBDReader.on('connected', function () {
+      //this.requestValueByName("vss"); //vss = vehicle speed sensor
 
-      }
+      this.addPoller("vss");
+      this.addPoller("rpm");
+      this.addPoller("temp");
 
+      this.startPolling(500); //request second
   });
 
-  //     dataReceivedMarker = data;
-  // });
+  btOBDReader.on('dataReceived', function (data) {
+      console.log(data);
+  // client.on('vehicle', function(data){
+    console.log(data);
+    if (data.hasOwnProperty('name')) {
+      if (data.name == "speed") {
+        var speedData = {"speed":data.value}
+        client.broadcast.emit("speed", speedData);
+      }else if (data.name == "rpm") {
+        var rpmData = {"rpm":data.value}
+        client.broadcast.emit("rpm", rpmData);
+      }else if (data.name == "temp") {
+        var tempData = {"temp":data.value}
+        client.broadcast.emit("temp", tempData);
+      }
+    }else {
 
-
+    }
+     dataReceivedMarker = data;
+  });
+btOBDReader.autoconnect('obd');
 
   client.on('disconnect', function(){});
 });
