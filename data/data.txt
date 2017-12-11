@@ -1,0 +1,1275 @@
+{}
+{ value: 'SEARCHING...' }
+{ mode: '41',
+  pid: '00',
+  name: 'pidsupp0',
+  value: 
+   [ true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     true,
+     false,
+     true,
+     true,
+     true,
+     false,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true ] }
+{ mode: '41', pid: '0C', name: 'rpm', value: 932 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 27.34375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.59375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 846.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 850 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.59375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 849.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 868.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.203125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 873.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 43.359375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1022.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.203125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: NaN }
+{}
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.46875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1429 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.46875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1227 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 16.40625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1101.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 25.390625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1133 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 26.5625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1155 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.6875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1310 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 26.953125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1686.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 23.828125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1776.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 22.265625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1668.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 0 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 932 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 25.78125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 820.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 847 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 38.671875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 832.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 49.21875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 827.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 53.125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 3 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1047 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 58.59375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 5 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1123 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 63.671875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 8 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1366.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 57.8125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 10 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1422 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.484375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1508 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.96875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1621.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 31.25 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 959 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 20.703125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 835.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.84375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 846.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.015625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 10 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 833.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.3125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 10 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1190 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 65.234375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 960 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 26.5625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 842 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.09375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 850.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.484375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 10 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 854 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.703125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 856.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 43.359375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 916 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 51.953125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1212.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 56.640625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1078 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1286 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.3125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1297 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 31.640625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1081 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1355 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 49.21875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1245 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 23.828125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 951 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.6875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 936.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 86 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 52.34375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1442.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 86 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 48.828125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1149 }
+{ mode: '41', pid: '05', name: 'temp', value: 86 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 20.703125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 847.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 86 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 28.125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 836 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.46875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 887 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.765625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1245.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 48.828125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1511 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.703125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1585.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 40.234375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1583 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.6875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1523.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 7.03125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1084 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 32.03125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1465.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 28.125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1393.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 20.3125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1212 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 28.125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1397 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.078125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1387.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.6875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1360.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 23.4375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 994.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 19.140625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 839 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.46875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 852.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1001 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.96875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1197 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.796875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{}
+{}
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1126.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 26.5625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1029 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 25.390625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 898 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.46875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 873.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 55.078125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1213 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 37.5 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1021.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.296875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1249 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 51.171875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1398.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1391 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.328125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1356.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1366.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1375 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1389 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1390.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1464 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.84375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1497.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.453125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1533 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.0625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1560.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 37.109375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1549 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.078125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1483 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 25 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1526 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.328125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1626 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 40.234375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1677.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 38.671875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1715 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.59375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1577 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 19.921875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1449.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.296875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1650 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.578125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1665.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.96875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1693 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.96875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1707.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.96875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1686 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 40.625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1679 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 42.578125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1731 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.484375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1725 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.765625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1599 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 28.90625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1542 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 29.6875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1532.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 93 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 37.109375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1566.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 93 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.40625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1630.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 93 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 43.359375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1676.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 93 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 43.359375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1669.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 93 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.078125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1548 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 19.921875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1428 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 18.75 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 21 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1362 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 19.140625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1367 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 22.265625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1417 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 21.875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1411 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 22.265625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1449 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 26.953125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1475.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 26.953125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 20 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1477.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 24.21875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1080 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 13.671875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 845.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 21.875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 843.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 24.609375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 869.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 887 }
+{ mode: '41', pid: '05', name: 'temp', value: 87 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 47.65625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1487.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 53.515625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1510 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.71875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1409.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 23.828125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 19 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1195 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 12.5 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 18 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 899.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 25 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 17 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 852 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 28.125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 842.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 31.25 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 16 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 846 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 32.8125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 845.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 88 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 846 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.15625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 847 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.71875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 846 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 37.890625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 845.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.453125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.84375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 847.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 40.234375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 850.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 40.625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 849 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.015625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 847.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 40.234375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 852 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.015625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.3125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 889.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 38.671875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 856 }
+{ mode: '41', pid: '05', name: 'temp', value: 89 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.765625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 839.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.9375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 838.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 37.5 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 849.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.328125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 850 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.15625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.9375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 850 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.71875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 854 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.15625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.765625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 849 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.59375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851 }
+{ mode: '41', pid: '05', name: 'temp', value: 90 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.203125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 33.203125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 850.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.546875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 15 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 845.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.71875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 14 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 36.71875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 13 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.453125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 12 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 842.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.015625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 841.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 43.359375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 11 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.703125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 10 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 852.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 51.953125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 9 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 840.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.484375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 7 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 849.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 47.265625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 6 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 860 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 45.703125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 7 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 830.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 39.84375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 7 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 860.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 47.265625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 7 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1239 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 69.921875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 10 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1312.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 15.625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 7 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 856 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.796875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 4 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 837 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 53.515625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 4 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 848.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 55.078125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 5 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 851 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 53.515625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 5 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 849.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 53.515625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 4 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 841 }
+{ mode: '41', pid: '05', name: 'temp', value: 91 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 57.03125 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 4 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 846.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 56.640625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 4 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 833.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 57.421875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 6 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1335.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 69.921875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 9 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1291 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 35.15625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 9 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1109.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 30.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 8 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1131 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 34.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 8 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 1147.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 24.609375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 8 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 825.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.015625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 6 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 863 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 41.796875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 5 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 839.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 46.875 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 5 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 837.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 53.515625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 4 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 839.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 55.859375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 3 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 841 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 58.984375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 1 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 844 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 59.375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 841 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 65.234375 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 866.5 }
+{ mode: '41', pid: '05', name: 'temp', value: 92 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 47.265625 }
+{ value: 'NO DATA' }
+{ value: 'NO DATA' }
