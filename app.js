@@ -13,7 +13,19 @@ var PORT = 4000;
 app.use(express.static(__dirname + '/node_modules'));
 app.use(express.static(__dirname + '/public'));
 
+var OBDReader = require('./public/lib/obd.js');
+var btOBDReader = new OBDReader();
+var dataReceivedMarker = {};
 
+btOBDReader.on('connected', function () {
+    //this.requestValueByName("vss"); //vss = vehicle speed sensor
+
+    this.addPoller("vss");
+    this.addPoller("rpm");
+    this.addPoller("temp");
+
+    this.startPolling(1000); //request second
+});
 
 
 
@@ -24,26 +36,15 @@ app.get('/', function(req, res) {
 
 io.on('connection', function(client){
   console.log('Client connected');
-  var OBDReader = require('bluetooth-obd');
-  var btOBDReader = new OBDReader();
-  var dataReceivedMarker = {};
 
-  btOBDReader.on('connected', function () {
-      //this.requestValueByName("vss"); //vss = vehicle speed sensor
-
-      this.addPoller("vss");
-      this.addPoller("rpm");
-      this.addPoller("temp");
-
-      this.startPolling(500); //request second
-  });
 
   btOBDReader.on('dataReceived', function (data) {
       console.log(data);
   // client.on('vehicle', function(data){
-    console.log(data);
+
     if (data.hasOwnProperty('name')) {
-      if (data.name == "speed") {
+      console.log(data.name);
+      if (data.name == "vss") {
         var speedData = {"speed":data.value}
         client.broadcast.emit("speed", speedData);
       }else if (data.name == "rpm") {
@@ -65,7 +66,7 @@ btOBDReader.autoconnect('obd');
 
 
 
-// btOBDReader.autoconnect('obd');
+ btOBDReader.autoconnect('obd');
 
 server.listen(PORT, function(){
   console.log("Application listening at " + PORT);
